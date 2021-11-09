@@ -6,7 +6,8 @@ read and share good FE article.
 
 ## http
 
-## web
+## javascript
+- https://blog.logrocket.com/best-practices-using-trailing-commas-javascript/  ☆☆☆☆★
 
 ## vue
 
