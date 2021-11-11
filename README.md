@@ -8,6 +8,7 @@ read and share good FE article.
 
 ## javascript
 - https://blog.logrocket.com/best-practices-using-trailing-commas-javascript/  ☆☆☆☆★
+- http://liubin.org/promises-book/  ☆☆☆★★ 
 
 ## vue
 
